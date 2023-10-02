@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Animations/DELETE-LATER.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameMode_BP.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameInstance_BP.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/DELETE-LATER.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/EC_TestLevel.umap"
+			]
+		}
+	]
+}
