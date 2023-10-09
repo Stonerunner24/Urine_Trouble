@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/christian.johnson/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/Level_Blockout.umap",
+				"C:/Users/christian.johnson/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/Lvl_Blockout.umap",
+				"C:/Users/christian.johnson/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Materials/Solid_Tone.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Models/Train_Cart.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/EC_TestLevel.umap",
 				"C:/Users/sebastian.finley/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/DefaultTestLevel.umap",
 				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Animations/DELETE-LATER.uasset",
