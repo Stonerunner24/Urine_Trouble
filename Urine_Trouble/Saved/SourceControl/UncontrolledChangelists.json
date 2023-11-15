@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Animations/DELETE-LATER.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameMode_BP.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameInstance_BP.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/EC_TestLevel.umap",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/Lose_Conditions/Tutorial_LoseCondition.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/Win_Conditions/Tutorial_WinCondition.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/BP_DoneButton.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/07_Terminal_TerminalFinish.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/Audio_TestLevel.umap",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/08_Door_PlaceDoor.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/09_MITO_GeneratorApproach.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/10_MITO_CableGrab.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Audio/VoiceLines/11_MITO_PlugCable.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/EC_TestLevel.umap",
 				"C:/Users/sebastian.finley/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/DefaultTestLevel.umap",
 				"C:/Users/sebastian.finley/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/UI/Widgets/WG_HUD.uasset",
@@ -30,11 +43,7 @@
 				"C:/Users/n.drebot/Desktop/Unreal Kidney Game/Kidney Game/Urine_Trouble/Urine_Trouble/Content/UI/UIAssets/windowsPlaceHolder.uasset",
 				"C:/Users/ianth/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Blueprints/BP_Renaldo.uasset",
 				"C:/Users/ianth/Documents/GitHub/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/IW_TestLevel.umap",
-				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Animations/DELETE-LATER.uasset",
-				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameMode_BP.uasset",
-				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Blueprints/UT_GameInstance_BP.uasset",
-				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/DELETE-LATER.uasset",
-				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/TestLevels/EC_TestLevel.umap"
+				"C:/Users/Elijah/Development/Unreal_Projects/Urine_Trouble/Urine_Trouble/Content/Levels/DELETE-LATER.uasset"
 			]
 		}
 	]
